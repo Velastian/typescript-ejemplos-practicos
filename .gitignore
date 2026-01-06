@@ -1,0 +1,14 @@
+# Archivos de configuración
+.env
+config.local.js
+.vscode
+
+# Dependencias
+node_modules/
+
+# Archivos de compilación
+dist/
+build/
+
+# Archivos temporales
+*.swp
